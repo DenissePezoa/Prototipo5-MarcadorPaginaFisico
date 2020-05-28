@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototipo5-MarcadorPaginaFisico", "Prototipo5-MarcadorPaginaFisico.csproj", "{0E8BDB7F-873A-438E-A1F0-2F1DE262E0C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E8BDB7F-873A-438E-A1F0-2F1DE262E0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8BDB7F-873A-438E-A1F0-2F1DE262E0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8BDB7F-873A-438E-A1F0-2F1DE262E0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8BDB7F-873A-438E-A1F0-2F1DE262E0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F7AA066-F3E9-45FF-999D-178F3641973B}
+	EndGlobalSection
+EndGlobal
